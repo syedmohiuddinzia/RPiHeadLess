@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=xj3MPmJhAPU
+
+putty ssh username pi@raspberrypi.local
+putty ssh password raspberry
